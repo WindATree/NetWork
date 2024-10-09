@@ -1,0 +1,5 @@
+﻿  client.cpp
+D:\VScode\NetWork-lab1\NetWork-lab1\client.cpp(42,42): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  server.cpp
+  正在生成代码...
+  NetWork-lab1.vcxproj -> D:\VScode\NetWork-lab1\x64\Debug\NetWork-lab1.exe
